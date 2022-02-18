@@ -1,0 +1,7 @@
+{
+  "name": "fiber",
+  "displayName": "fiber",
+  "ios": {
+    "bundleIdentifier": "ios"
+  }
+}
